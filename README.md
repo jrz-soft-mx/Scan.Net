@@ -1,6 +1,12 @@
 # ScanNet
 Tool for scan from your APP save to BMP, PNG, GIF, JPEG, TIFF, and add the image into PDF
 
+## The NuGet Package
+
+````powershell
+PM> Install-Package Scanner.Net
+````
+
 ## How it works
 
 Scan with Windows Image Acquisition (WIA), only need call Scan with scanner name, filepath and image format, addicionaly your set true for make pdf, create new instance of configuration class for set color mode, DPI, Start Pixels, Size of Scan, Brigthness and contrast.
