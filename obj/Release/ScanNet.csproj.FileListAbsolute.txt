@@ -1,0 +1,10 @@
+C:\Labinnsoft\ScanNet\bin\Release\ScanNet.dll
+C:\Labinnsoft\ScanNet\bin\Release\ScanNet.pdb
+C:\Labinnsoft\ScanNet\bin\Release\PdfSharp.dll
+C:\Labinnsoft\ScanNet\bin\Release\Interop.WIA.dll
+C:\Labinnsoft\ScanNet\obj\Release\Interop.WIA.dll
+C:\Labinnsoft\ScanNet\obj\Release\ScanNet.csproj.ResolveComReference.cache
+C:\Labinnsoft\ScanNet\obj\Release\ScanNet.csproj.CoreCompileInputs.cache
+C:\Labinnsoft\ScanNet\obj\Release\ScanNet.dll
+C:\Labinnsoft\ScanNet\obj\Release\ScanNet.pdb
+C:\Labinnsoft\ScanNet\obj\Release\ScanNet.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Scan.Net</id>
+    <version>1.0.0</version>
+    <title>Scan Net</title>
+    <authors>JRZ Soft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0+</license>
+    <description>Tool for scan from your APP save to BMP PNG GIF JPEG TIFF and add the image into PDF</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>Scan Tool, Scan to PDF Scan to BMP PNG GIF JPEG TIFF</tags>
+  </metadata>
+</package>
