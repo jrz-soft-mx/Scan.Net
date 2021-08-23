@@ -55,8 +55,9 @@ namespace HelloWorld
 }
 ````
 
-### Updt.exe (Tool for replace yourapp).
-Get list string of aviable scanners
+### Get list of available 
+Get list string of available scanners
+
 ````csharp
 using System;
 using System.Diagnostics;
