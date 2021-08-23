@@ -71,6 +71,7 @@ namespace HelloWorld
         {		
             InitializeComponent();
             List<string> lisScanners = ScanNet.ScanNet.ScannersList();
+            //fill combo with scanners for user select.
             foreach(string strScanner in lisScanners)
             {
                 comboBox1.Items.Add(strScanner);
