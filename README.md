@@ -22,7 +22,7 @@ cfg.IntColor_Mode = 1;
 cfg.IntResolution_DPI_Horizontal = 150;
 cfg.IntResolution_DPI_Vertical = 150;
 //scan name, filepath, format, pdf, ScanCfg
-ScanNet.ScanNet.Scan("SP 200 Series", @"C:\Users\Admin\Desktop\scan.pdf", "jpg", false, cfg);
+ScanNet.ScanNet.Scan("SP 200 Series", @"C:\Users\Admin\Desktop\scan.pdf", "jpg", true, cfg);
 ````
 
 ### Save Image to JPG
